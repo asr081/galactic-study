@@ -1,1 +1,2 @@
-X
+Mars is a planet 
+Mars is red.
